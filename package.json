@@ -29,7 +29,7 @@
     "orbit-db-keystore": "rc1.2",
     "orbit-db-kvstore": "rc3",
     "orbit-db-pubsub": "~0.5.5",
-    "orbit-db-store": "rc2"
+    "orbit-db-store": "github:orbitdb/orbit-db-store#cid-to-hash"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
